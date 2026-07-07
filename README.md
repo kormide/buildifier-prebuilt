@@ -40,7 +40,7 @@ bazel run -- @buildifier_prebuilt//:buildifier ARGS
 
 ## Installation
 
-Check [the releases](releases) page for the latest snippet.
+Check [the releases](https://github.com/keith/buildifier-prebuilt/releases) page for the latest snippet.
 
 ## Specify Version of Buildtools
 
